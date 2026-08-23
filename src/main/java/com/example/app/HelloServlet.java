@@ -23,7 +23,7 @@ public class HelloServlet extends HttpServlet {
 
         out.println("<html>");
         out.println("<head>");
-        out.println("<title>Simple Java Application</title>");
+        out.println("<title>Simple Java Application with version 1.1</title>");
         out.println("</head>");
 
         out.println("<body>");
